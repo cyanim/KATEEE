@@ -54,16 +54,17 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+   "sure na yaon love?",
+    "aynaaa suree yaon??",
+    "naaaaaaaaaaah" ,
+    "wana dimo jud ko love nueh bibi:<",
+    "baby please",
+    "AYNAAAAAAAAAAH",
+    " sad na jud ko luve",
+    "mapgpabondol nalang ayna",
+    "lul sigi kala mo kailangan kita",
+    "opo kailangan kita sigi na pleasehshshsh",
+    "NAH LOVE MAN TIKA UYYYYS",
 ];
 
 let messageIndex = 0;
